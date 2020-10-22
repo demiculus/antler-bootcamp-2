@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/antler-bootcamp-2/static/css/main.5f361e03.chunk.css",
+    "main.js": "/antler-bootcamp-2/static/js/main.6f7a12b8.chunk.js",
+    "main.js.map": "/antler-bootcamp-2/static/js/main.6f7a12b8.chunk.js.map",
+    "runtime-main.js": "/antler-bootcamp-2/static/js/runtime-main.5c8aea5b.js",
+    "runtime-main.js.map": "/antler-bootcamp-2/static/js/runtime-main.5c8aea5b.js.map",
+    "static/js/2.824717fc.chunk.js": "/antler-bootcamp-2/static/js/2.824717fc.chunk.js",
+    "static/js/2.824717fc.chunk.js.map": "/antler-bootcamp-2/static/js/2.824717fc.chunk.js.map",
+    "index.html": "/antler-bootcamp-2/index.html",
+    "precache-manifest.5fd04eb4d577fa99a554f4073afa2137.js": "/antler-bootcamp-2/precache-manifest.5fd04eb4d577fa99a554f4073afa2137.js",
+    "service-worker.js": "/antler-bootcamp-2/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/antler-bootcamp-2/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.824717fc.chunk.js.LICENSE.txt": "/antler-bootcamp-2/static/js/2.824717fc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/antler-bootcamp-2/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c8aea5b.js",
+    "static/js/2.824717fc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6f7a12b8.chunk.js"
+  ]
+}
